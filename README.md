@@ -18,3 +18,5 @@ Buildkite & airflow for data pipeline and job orchestration
 5.Productionised the data using Buildkite and airflow jobs \
 6.Set up the reporting in power BI to visualise live campaign performance 
 
+# ML Model 
+![plot](./Desktop/ML_NBO_Model.jpg)
