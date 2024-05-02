@@ -19,4 +19,5 @@ Buildkite & airflow for data pipeline and job orchestration
 6.Set up the reporting in power BI to visualise live campaign performance 
 
 # ML Model 
-![plot](./Desktop/ML_NBO_Model.jpg)
+
+![ML_NBO_Model](https://github.com/kkaurr/EuropeanSummerIntlSpend2.0/assets/89369829/e3a643dd-d653-45e0-8221-81829c631304)
