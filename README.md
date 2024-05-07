@@ -16,7 +16,7 @@ Buildkite & airflow for data pipeline and job orchestration
 3.Kept the control group to measure the uplift in volume and number of customers spending due to campaign\
 4.Developed the campaign in r-notebook, automated in r-studio to refresh the leads daily \
 5.Productionised the data using Buildkite and airflow jobs \
-6.Set up the reporting in power BI to visualise live campaign performance 
+6.Set up the reporting in power BI to visualise live campaign performance \
 7.Set up DOE for post implementation review to measure incremental spend uplift 
 
 # ML Model 
