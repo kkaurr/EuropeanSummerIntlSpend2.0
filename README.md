@@ -8,7 +8,7 @@ International Credit Card
 *Dataiku*\
 R-studio\ 
 Snowflake\
-Buildkite & airflow for data pipeline and job orchestration 
+dbt + Buildkite + airflow for data pipeline and job orchestration 
 
 # Description of Process 
 1.Feeature engineered the model leveraging XG Boost algorithm to classify the outcome into high, medium, low and inactive groups who are likely to make international spend in months July - Sept \
