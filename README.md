@@ -11,7 +11,7 @@ Snowflake\
 Buildkite & airflow for data pipeline and job orchestration 
 
 # Description of Process 
-1.Leveraged the predictive ML model in Dataiku that predicted the score of customer who are likely to make international spend in months July - Sept \
+1.Feeature engineered the model leveraging XG Boost algorithm to classify the outcome into high, medium, low and inactive groups who are likely to make international spend in months July - Sept \
 2.Forecasted international spending and created customer segments based on their spanding in past year\
 3.Kept the control group to measure the uplift in volume and number of customers spending due to campaign\
 4.Developed the campaign in r-notebook, automated in r-studio to refresh the leads daily \
